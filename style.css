@@ -1,0 +1,26 @@
+
+
+body {
+    font-family: helvetica, sans-serif;
+    margin: 2em;
+    background-color: aliceblue;
+  
+}
+
+h1 {
+  size: 10em;
+  color: blue;
+}
+p {
+  size: 7em;
+  color: #CCCC00;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 100%;
+  padding: 0;
+}
